@@ -1,0 +1,37 @@
+/* table {
+  border: 2px solid;
+  border-color: brown;
+} */
+
+#table_1 {
+  border: 2px solid;
+  border-color: brown;
+  margin: 10px 20px 10px 20px;
+}
+
+.baslik {
+  color: blue;
+  background-color: yellow;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+}
+
+.yeni_link:hover {
+  color: blue;
+}
+
+#liste ul:first-child {
+  color: blue;
+}
+
+/* #table1 {
+  padding: 8px;
+} */
+
+/* selectors */
